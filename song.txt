@@ -4,7 +4,3 @@
 четвертая строка
 пятая строка
 
-Trying to branch
-Second commit in new branch
-
-набор игл
